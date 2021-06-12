@@ -1,5 +1,5 @@
-# This is simple utility program.
 def is_greatest(*params): 
+    '''This is simple utility program to find the largest number from a variable length list.'''
     greatest_number = 0
     greater_number = 0
     for number_list in params:
